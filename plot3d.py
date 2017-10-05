@@ -9,6 +9,6 @@ z = np.random.normal(0, 1, 1000)
 
 fig = plt.figure()
 # ax = Axes3D(fig)
-ax.scatter(x, y, z)
+# ax.scatter(x, y, z)
 # plt.show()
 # 试试该bain
